@@ -7,7 +7,7 @@
   height: 170cm; 
   display: boy; 
   background: Technical Support Specialist at AWS; 
-  color: vampirewhite 
+  color: vampirewhite;
 }
 ```
 
