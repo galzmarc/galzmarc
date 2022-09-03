@@ -1,4 +1,4 @@
-### Hey there, nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h3> Hey there, nice to see you </h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 I'm Marco, a programming enthusiast currently learning frontend development. 
 
 <h3>Things I code with</h3>
