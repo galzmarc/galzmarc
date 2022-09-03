@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there, nice to see you 👋
+I'm Marco, a programming enthusiast currently learning frontend technologies. 
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+</p>
 
 <!--
 **galzmarc/galzmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />  
-</p>
