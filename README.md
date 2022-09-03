@@ -16,7 +16,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galzmarc&show_icons=true&locale=en&layout=compact" alt="galzmarc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galzmarc&show_icons=true&locale=en" alt="galzmarc" /></p>
 
 <!--
 **galzmarc/galzmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
