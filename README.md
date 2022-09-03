@@ -13,7 +13,7 @@ class About extends Me {
       pronouns: "He" | "Him",
       code: ["Javascript", "HTML", "CSS"],
       architecture: "Single page applications",
-      currentFocus: "Learning frontend development",
+      currentFocus: "Learning web development",
       askMeAbout: ["web dev", "videogames"],
       company: "AWS",
       position: "Technical Support Specialist",
