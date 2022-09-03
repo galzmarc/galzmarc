@@ -1,5 +1,5 @@
 ### Hey there, nice to see you 👋
-I'm Marco, a programming enthusiast currently learning frontend technologies. 
+I'm Marco, a programming enthusiast currently learning frontend development. 
 
 <h3>Things I code with</h3>
 <p>
