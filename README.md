@@ -15,6 +15,9 @@
 <p><a href="https://github.com/galzmarc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marcogalzignato" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galzmarc&show_icons=true&locale=en&layout=compact" alt="galzmarc" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galzmarc&show_icons=true&locale=en" alt="galzmarc" /></p>
+
 <!--
 **galzmarc/galzmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
