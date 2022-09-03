@@ -11,7 +11,7 @@ class About extends Me {
   function aboutMe() {
     return {
       pronouns: "He" | "Him",
-      code: ["Javascript", "HTML", "CSS"]
+      code: ["Javascript", "HTML", "CSS"],
       architecture: "Single page applications",
       currentFocus: "Learning frontend development",
       askMeAbout: ["web dev", "videogames"],
