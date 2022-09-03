@@ -33,8 +33,8 @@ galzmarc.sayHi();
 #galzmarc { 
   position: Dublin, IE; 
   height: 170cm; 
-  display: boy; 
-  background: Technical Support Specialist at AWS; 
+  display: boy;
+  beard: 1.5in solid #1b0000;
   color: vampirewhite;
 }
 ```
