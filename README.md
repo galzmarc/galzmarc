@@ -1,6 +1,14 @@
 <h2 align="left">Hey there, nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h2>
 <p align="left">My name is Marco and I am a programming enthusiast currently learning frontend development.</p>
 
+#monkindey { 
+  position: Dublin, IE; 
+  height: 170cm; 
+  display: boy; 
+  background: Technical Support Specialist at AWS; 
+  color: vampirewhite 
+}
+
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
