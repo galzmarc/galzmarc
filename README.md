@@ -34,7 +34,7 @@ galzmarc.sayHi();
   position: Dublin, IE; 
   height: 170cm; 
   display: boy;
-  beard: 1.5in solid #1b0000;
+  beard: 1in solid #1b0000;
   color: vampirewhite;
 }
 ```
