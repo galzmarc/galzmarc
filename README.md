@@ -1,5 +1,5 @@
 <h2 align="left">Hey there, nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h2>
-<p align="left">My name is Marco and I am a programming enthusiast currently learning frontend development.</p>
+<p align="left">My name is Marco and I am a programming enthusiast currently learning web development.</p>
 
 ```javascript
 
