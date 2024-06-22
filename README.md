@@ -1,43 +1,5 @@
 <h2 align="left">Hey there, nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h2>
-<p align="left">My name is Marco and I am a programming enthusiast currently learning web development.</p>
-
-```javascript
-
-class About extends Me {
-  constructor(name) {
-    super(name);
-  }
-  
-  function aboutMe() {
-    return {
-      pronouns: "He" | "Him",
-      code: ["Javascript", "HTML", "CSS"],
-      architecture: "Single page applications",
-      currentFocus: "Learning web development",
-      askMeAbout: ["web dev", "videogames"],
-      company: "AWS",
-      position: "Technical Support Specialist",
-    }  
-  }
-  
-  function sayHi() {
-    console.log("Thanks for dropping by, hope you find some of my work interesting.")
-   }
-}
-
-const galzmarc = new About("Marco")
-galzmarc.sayHi();
-```
-
-```css
-#galzmarc { 
-  position: Dublin, IE; 
-  height: 170cm; 
-  display: boy;
-  beard: 1in solid #1b0000;
-  color: vampirewhite;
-}
-```
+<p align="left">My name is Marco and I am a self-taught programming enthusiast coding in Rust, Go and JavaScript.</p>
 
 <h3>Things I code with</h3>
 <p>
